@@ -15,5 +15,6 @@
 - [Add two numbers](https://leetcode.com/problems/add-two-numbers/submissions/595850040/)
 - [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/submissions/594699220/)
 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/594225378/)
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/849930106/)
 
 ## Hard
