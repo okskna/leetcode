@@ -18,3 +18,5 @@
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/849930106/)
 
 ## Hard
+
+- [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/850629288/)
